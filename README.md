@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 **Development Tools**
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-333.svg?logo=vsc&logoColor=007ACC)
 ![PhpStorm](https://img.shields.io/badge/PhpStorm-333333?logo=phpstorm&logoColor=fff)
 ![WebStorm](https://img.shields.io/badge/WebStorm-333333?logo=webstorm&logoColor=fff)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
